@@ -6,9 +6,9 @@ description: >-
 
 # Apescape
 
-Using a combination of token incentives, yield farming, and innovative DeFi primitives we build products that allow individuals to coordinate and grow their wealth together. United we can escape the rat race together. Apes Together Strong.\
-\
+Using a combination of token incentives, yield farming, and innovative DeFi primitives we build products that allow individuals to coordinate and grow their wealth together. United we can escape the rat race together. Apes Together Strong.
+
 Explore this gitbook to learn more, and start your APEscape at: [apescape.eth.link](https://apescape.eth.link)
 
-![](<.gitbook/assets/image (4).png>)
+![Wallpaper](<.gitbook/assets/wallpaper.png>)
 

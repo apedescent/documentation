@@ -11,4 +11,5 @@
   * [Autocompounding](intro-to-defi/autocompounding.md)
   * [Liquidity Providers](intro-to-defi/liquidity-providers.md)
   * [DAO](intro-to-defi/dao.md)
+* [Contracts](contracts.md)
 * [Links](links.md)
