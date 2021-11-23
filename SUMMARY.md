@@ -12,4 +12,5 @@
   * [Liquidity Providers](intro-to-defi/liquidity-providers.md)
   * [DAO](intro-to-defi/dao.md)
 * [Contracts](contracts.md)
+* [Use Cases](usecases.md)
 * [Links](links.md)

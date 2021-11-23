@@ -28,6 +28,8 @@ the market value increases. There are other factors that play for higher ROKT va
 - being a governance token, there's an incentive to accumulate ROKT for having a stronger word in the future 
   development of the protocol.
 
+## Provide liquidity
+
 ## Stake in the BNB pools
 
 What's unique about our protocol is that rewards are paid in BNB. That's right, for staking in our 
@@ -55,3 +57,24 @@ There are multiple FARM pools. The core ones being
   bring you something extra. Staking it in the NTRO pool will bring you some bonus ROKT.
 
 We are soon opening new pools to reward people who have been rugged in other projects so **stay tuned**!
+
+## Stir &amp; Shake
+
+The game is played best by combining your strategies.
+
+- **Got some NTRO?** Great, you can stake it in the ROKT masterchef to earn some ROKT on top.
+- **Earning BNB from staking in one of the BNB pools?** Invest your profits to get more NTRO or ROKT (or both). Did you 
+  know you can reinvest your rewards automatically using auto compounding?
+- **Got a bunch of ROKT and some spare BNB?** Stake in the BNB/ROKT LP pool and gain the highest rewards
+- **Are you tired of hoarding NTRO?** Dump it and let others enjoy the rewards :) 
+
+## Make it grow
+
+The protocol value grows with the amount of its users. That's not our invention - it's the same as everywhere else.
+Invite your frends. Explain the project to them. 
+
+We want more!
+
+- The more there's locked in NTRO, the juicier the BNB rewards. 
+- The more ROKT holders, the more robust protocol we have. 
+- The more liquidity on PancakeSwap, the more dump-resistant ROKT is.
