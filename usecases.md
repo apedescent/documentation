@@ -28,7 +28,15 @@ the market value increases. There are other factors that play for higher ROKT va
 - being a governance token, there's an incentive to accumulate ROKT for having a stronger word in the future 
   development of the protocol.
 
+Check the ROKT price action on [CoinGecko](https://www.coingecko.com/en/coins/rocket)
+  
 ## Provide liquidity
+
+If you're holding some ROKT and BNB and want to give it some utility (and help to make the protocol more robust), you can 
+stake in the [BNB/ROKT Pool on PancakeSwap](https://pancakeswap.finance/add/BNB/0xc0731c3A2cbd795c6AB6dd7Fe2146Edc51CC21B0).
+
+It doesn't end here though. You go to the [Apescape FARM](https://apescape.eth.link/#/app/farm) and stake your new and 
+shiny LP tokens in the BNB/ROKT Pool to get the juiciest ROKT rewards.
 
 ## Stake in the BNB pools
 
@@ -51,9 +59,9 @@ We've settled that the value of ROKT is bound to grow with the protocol usage. W
 
 There are multiple FARM pools. The core ones being
 
-- BNB/ROKT pool. This is the famous pool #2 (even though it's listed first). You provide liquidity to the ROKT token 
+- **BNB/ROKT pool**. This is the famous pool #2 (even though it's listed first). You provide liquidity to the ROKT token 
   on PancakeSwap, we give you a lot of ROKT as a reward. 
-- NTRO pool. Specifically created for those who aped primarily in NTRO. Holding NTRO is great but why not make it 
+- **NTRO pool**. Specifically created for those who aped primarily into NTRO. Holding NTRO is great but why not make it 
   bring you something extra. Staking it in the NTRO pool will bring you some bonus ROKT.
 
 We are soon opening new pools to reward people who have been rugged in other projects so **stay tuned**!
